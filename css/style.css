@@ -1,0 +1,28 @@
+.jumbotron {
+  background: #418df0;
+  color: white;
+  font: cosmic;
+
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.body {
+  background: #e4ebf1;
+}
+hr {
+  border-color: white;
+  margin: 1em 0;
+}
+
+#resultsModal img {
+  overflow: hidden;
+  width: 500px;
+}
+.JTHeader {
+  color: white;
+  font: cosmic;
+
+}
