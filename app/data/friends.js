@@ -1,4 +1,4 @@
-var friendsArray = [
+var friends = [
 	{
 		name: 'Meek Mill',
 		photo: 'https://www.ebony.com/wp-content/uploads/2018/08/meek-mill.png',

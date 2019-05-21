@@ -13,6 +13,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.text());
 app.use(bodyParser.json({ type: "application/vnd.api=json"}));
 app.use(express.static("FriendFinder/public"));
+require("./routing/apiRoutes")(app);
+require("./routing/htmlRoutes")(app);
 app.listen(PORT, function() {
   console.log('Friend Finder app is listening on PORT: ' + PORT);
 });
