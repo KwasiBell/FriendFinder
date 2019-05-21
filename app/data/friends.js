@@ -129,7 +129,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Wiz Khalifa',
-		photo: 'http://.jpg',
+		photo: 'https://media2.fdncms.com/sacurrent/imager/u/original/19209382/wiz.jpg',
 		scores: [
 			'1',
 			'4',
@@ -145,7 +145,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Kevin Hart',
-		photo: 'http://.png',
+		photo: 'https://timedotcom.files.wordpress.com/2000/04/kevin-hart-time-100-2015-artists.jpg',
 		scores: [
 			'5',
 			'3',
